@@ -1,0 +1,20 @@
+{
+  "emails": [
+    {
+      "id": "c474",
+      "email": "test@test.com"
+    },
+    {
+      "id": "909d",
+      "email": "test@mail.ru"
+    },
+    {
+      "id": "2b53",
+      "email": "test@mailru.co"
+    },
+    {
+      "id": "6fa8",
+      "email": "wdgs@whc.ssk"
+    }
+  ]
+}
